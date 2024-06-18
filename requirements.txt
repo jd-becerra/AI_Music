@@ -1,0 +1,12 @@
+fluidsynth
+midi2audio
+keras
+numpy
+pandas
+music21
+pretty_midi
+seaborn
+tensorflow
+matplotlib
+typing
+IPython
